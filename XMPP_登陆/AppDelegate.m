@@ -31,6 +31,7 @@
             window.rootViewController = [storyboard instantiateInitialViewController];
         }];
     }
+    NSLog(@"测试");
     return YES;
 }
 
